@@ -8,11 +8,11 @@
 
 #include <avr/io.h>
 #include "constantCV.h"
-#include "..\header.h"
-#include "..\display\menu.h"
-#include "..\display\5110.h"
-#include "..\uart\uart.h"
-#include "..\adc.h"
+#include "../header.h"
+#include "../display/menu.h"
+#include "../display/5110.h"
+#include "../uart/uart.h"
+#include "../adc.h"
 #include <inttypes.h>
 extern LCD_5110 lcd;
 extern volatile bool secondFlag;

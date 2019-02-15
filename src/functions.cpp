@@ -9,9 +9,9 @@
 #include <avr/io.h>
 #include "functions.h"
 #include "header.h"
-#include "display\menu.h"
-#include "display\5110.h"
-#include "uart\uart.h"
+#include "display/menu.h"
+#include "display/5110.h"
+#include "uart/uart.h"
 #include "adc.h"
 #include <inttypes.h>
 extern LCD_5110 lcd;

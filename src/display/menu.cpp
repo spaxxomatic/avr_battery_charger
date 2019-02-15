@@ -6,7 +6,7 @@
  * github.com/MartinD-CZ/AVRcharger
  */
 
-#include "..\header.h"
+#include "../header.h"
 #include <avr/io.h>
 #include <util/delay.h>
 #include "5110.h"
